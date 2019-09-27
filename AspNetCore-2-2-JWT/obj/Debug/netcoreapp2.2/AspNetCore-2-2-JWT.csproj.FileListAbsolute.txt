@@ -1,0 +1,14 @@
+C:\Users\alex.santana\Source\Repos\AspNetCore-2-2-JWT\bin\Debug\netcoreapp2.2\AspNetCore-2-2-JWT.deps.json
+C:\Users\alex.santana\Source\Repos\AspNetCore-2-2-JWT\bin\Debug\netcoreapp2.2\AspNetCore-2-2-JWT.runtimeconfig.json
+C:\Users\alex.santana\Source\Repos\AspNetCore-2-2-JWT\bin\Debug\netcoreapp2.2\AspNetCore-2-2-JWT.runtimeconfig.dev.json
+C:\Users\alex.santana\Source\Repos\AspNetCore-2-2-JWT\bin\Debug\netcoreapp2.2\AspNetCore-2-2-JWT.dll
+C:\Users\alex.santana\Source\Repos\AspNetCore-2-2-JWT\bin\Debug\netcoreapp2.2\AspNetCore-2-2-JWT.pdb
+C:\Users\alex.santana\Source\Repos\AspNetCore-2-2-JWT\obj\Debug\netcoreapp2.2\AspNetCore-2-2-JWT.csprojAssemblyReference.cache
+C:\Users\alex.santana\Source\Repos\AspNetCore-2-2-JWT\obj\Debug\netcoreapp2.2\AspNetCore-2-2-JWT.csproj.CoreCompileInputs.cache
+C:\Users\alex.santana\Source\Repos\AspNetCore-2-2-JWT\obj\Debug\netcoreapp2.2\AspNetCore-2-2-JWT.RazorAssemblyInfo.cache
+C:\Users\alex.santana\Source\Repos\AspNetCore-2-2-JWT\obj\Debug\netcoreapp2.2\AspNetCore-2-2-JWT.RazorAssemblyInfo.cs
+C:\Users\alex.santana\Source\Repos\AspNetCore-2-2-JWT\obj\Debug\netcoreapp2.2\AspNetCore-2-2-JWT.AssemblyInfoInputs.cache
+C:\Users\alex.santana\Source\Repos\AspNetCore-2-2-JWT\obj\Debug\netcoreapp2.2\AspNetCore-2-2-JWT.AssemblyInfo.cs
+C:\Users\alex.santana\Source\Repos\AspNetCore-2-2-JWT\obj\Debug\netcoreapp2.2\AspNetCore-2-2-JWT.RazorTargetAssemblyInfo.cache
+C:\Users\alex.santana\Source\Repos\AspNetCore-2-2-JWT\obj\Debug\netcoreapp2.2\AspNetCore-2-2-JWT.dll
+C:\Users\alex.santana\Source\Repos\AspNetCore-2-2-JWT\obj\Debug\netcoreapp2.2\AspNetCore-2-2-JWT.pdb
